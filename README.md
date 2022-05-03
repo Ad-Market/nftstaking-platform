@@ -1,11 +1,12 @@
 #To make the platform work you need to install some depencendies.
-### 'npm i web3'
-### 'npm i ethers'
-### 'npm i walletconnect'
-### 'npm i axios'
-### 'npm i walletlink'
-### 'npm i react-moralis'
-### 'npm i bootstrap'
+
+### `npm i web3`
+### `npm i ethers`
+### `npm i walletconnect`
+### `npm i axios`
+### `npm i walletlink`
+### `npm i react-moralis`
+### `npm i bootstrap`
 
 After this you need to uninstall webpack, lower the version of react-app to v 4.0.3, and reinstall webpack to v 4.22.2. (remove package.lock between )
 
