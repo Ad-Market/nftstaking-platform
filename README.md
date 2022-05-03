@@ -1,3 +1,4 @@
+# Getting Started with the platform :)
 #To make the platform work you need to install some depencendies.
 
 ### `npm i web3`
